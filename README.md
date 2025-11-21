@@ -1,17 +1,2 @@
-# 🧶 DayEn Tuft - Fluffy Rug Customization
-
-Proyek ini adalah implementasi website e-commerce karpet custom dengan tema bubbly dan glosssy realsitis
-
-## Tampilan Halaman Utama (Index)
-
-Berikut adalah hasil akhir tampilan Halaman Utama (Project 1):
-
-!(assets/"C:\Users\Anne\Pictures\Screenshots\halaman utama web.png")
-
----
-
-## Detail Formulir Kustom
-
-Tampilan formulir order kustom karpet (Project 2):
-
-!(assets/"C:\Users\Anne\Pictures\Screenshots\formulir bruno.png")
+<img width="1898" height="957" alt="halaman utama web" src="https://github.com/user-attachments/assets/0d8f53db-4429-405f-ac8d-c511ae46ca11" />
+<img width="1914" height="1039" alt="formulir bruno" src="https://github.com/user-attachments/assets/df0d697b-8007-41f5-91c7-25b13c5fec72" />
